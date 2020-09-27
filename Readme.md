@@ -1,13 +1,13 @@
 # Project_management
-## line bot demo for manage the project
-## only for testing
+### line bot demo for manage the project <br />
+### only for testing
 
 ## Demo GIF
 ![alt-text](demo1.gif)
 
 ## using line-bot-sdk-python in development
-https://github.com/line/line-bot-sdk-python
-
+link: https://github.com/line/line-bot-sdk-python
+go there and got more imformation for line bot building using python
 
 ### Rich menu and icon made by photoshop.
 ### here's some prototype json template pic below
